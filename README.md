@@ -13,7 +13,7 @@ El laboratorio de Electrónica Digital I tiene como objetivo principal complemen
 
 ## Profesores:
 
-* [Ronny Alberto Rueda Mendez](https://github.com/DarkSpartan345)
+* [Andrés Junior Gallego Garcés](https://github.com/ajgallegog)
 
 ## Metodología
 
