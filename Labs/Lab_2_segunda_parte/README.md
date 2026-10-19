@@ -1,4 +1,4 @@
-# Lab 03: Visualización de Resultados en Displays de 7 Segmentos
+# Lab 02 - Segunda parte: Visualización de Resultados en Displays de 7 Segmentos
 
 ---
 
@@ -248,8 +248,8 @@ Este bloque controla un display dedicado únicamente a mostrar el **signo del re
 
 1. Descripción de hardware del sistema.
 
-2. Documentación del ítem anterior en su respectivo archivo ```README.md```.
+2. Documentación para preparar el informe.
 
-3. Realice la respectiva simulaciones y muestre evidencias en su archivo ```README.md```.
+3. Realice la respectiva simulaciones y muestre evidencias.
 
-4. Implemente la descripción HDL en la tarjeta de desarrollo, empleando la ```IDE Quartus``` y muestre en el laboratorio el funcionamiento, empleando los periféricos que requiera.
+4. Implemente la descripción HDL en la tarjeta de desarrollo, empleando la ```IDE Quartus``` y muestre en el laboratorio el funcionamiento, empleando los periféricos y montajes físicos que se requieran.
