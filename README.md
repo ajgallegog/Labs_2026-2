@@ -84,12 +84,12 @@ El laboratorio se desarrolla bajo el siguiente esquema:
   </tr>
   <tr>
     <td>Sumador de 1 y 4 bits y sumador/restador</td>
-    <td><a href="/Labs/Lab_2/README.md">Lab_2</a></td>
+    <td><a href="/Labs/Lab_2_primera_parte/README.md">Lab_2_primera_parte</a></td>
     <td>%</td>
   </tr>
   <tr>
     <td>Decodificador BCD a 7 segmentos</td>
-    <td><a href="/Labs/Lab_3/README.md">Lab_3</a></td>
+    <td><a href="/Labs/Lab_2_segunda_parte/README.md">Lab_2_segunda_parte</a></td>
     <td>%</td>
   </tr>
   <tr>
