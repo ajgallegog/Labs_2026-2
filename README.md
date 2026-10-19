@@ -67,77 +67,50 @@ El laboratorio se desarrolla bajo el siguiente esquema:
 
 <table>
   <tr>
-    <th>Semana</th>
     <th>Nombre</th>
     <th>Guía</th>
-    <th>Entrega (GitHub Classroom)</th>
-    <th>Deadline</th>
     <th>Porcentaje</th>
   </tr>
 
   <tr>
-    <td>1</td>
     <td>Instalación de herramientas</td>
     <td><a href="/Labs/Lab_0/README.md">Lab_0</a></td>
-    <td><a href="https://classroom.github.com/a/N5954o4U">Link G5</a>, <a href="https://classroom.github.com/a/n2SU_VxM">Link G6</a></td> 
-    <td>8 febrero</td>
     <td>5%</td>
   </tr>
   <tr>
-    <td>2-3</td>
     <td>Comparación de tecnologías CMOS vs TTL</td>
     <td><a href="/Labs/Lab_1/README.md">Lab_1</a></td>
-    <td><a href="https://classroom.github.com/a/9H91G-4q">Link G5</a>, <a href="https://classroom.github.com/a/FK4rAF88">Link G6</a></td>
-    <td> 11 Abril</td>
     <td>5%</td>
   </tr>
   <tr>
-    <td>3-4</td>
     <td>Sumador de 1 y 4 bits y sumador/restador</td>
     <td><a href="/Labs/Lab_2/README.md">Lab_2</a></td>
-    <td><a href="https://classroom.github.com/a/-kV7XGq5">Link G5</a>, <a href="https://classroom.github.com/a/jb92N8Ej">Link G6</a></td>
-    <td> 18 Abril</td>
     <td>10%</td>
   </tr>
   <tr>
-    <td>4-6 </td>
     <td>Decodificador BCD a 7 segmentos</td>
     <td><a href="/Labs/Lab_3/README.md">Lab_3</a></td>
-    <td><a href="https://classroom.github.com/a/9G2RsupD">Link G5</a>, <a href="https://classroom.github.com/a/TJlGhGNm">Link G6</a></td>
-    <td> 2 May</td>
     <td>10%</td>
   </tr>
   <tr>
-    <td>6-8</td>
     <td>Circuitos Secuenciales,Contadores y PWM.</td>
     <td><a href="/Labs/Lab_4/README.md">Lab_4</a></td>
-    <td><a href="https://classroom.github.com/a/F_PPDPtc">Link G5</a>, <a href="https://classroom.github.com/a/bAentUCO">Link G6</a></td>
-    <td>16 May</td>
     <td>10%</td>
   </tr>
   <tr>
-    <td>8-9</td>
     <td>Diseño de una Cerradura Electrónica con Teclado Matricial y Control de Servo en FPGA</td>
     <td><a href="/Labs/Lab_5/readme.md">Lab_5</a></td>
-    <td><a href="">Link</a></td>
-    <td>30 May</td>
     <td>10%</td>
   </tr>
 
   <tr>
-    <td>8-9</td>
     <td>LCD 16x2 en modo paralelo</td>
     <td><a href="/Labs/Lab_6/README.md">Lab_6</a></td>
-    <td><a href="">Link</a></td>
-    <td> 13 Nov</td>
     <td>10%</td>
   </tr>
   <tr>
-    <td>10</td>
     <td> Proyecto final</td>
     <td><a>Proyecto</a></td>
-    <td><a href="">Link</a></td>
-    <td> 24 may</td>
     <td>30%</td>
   </tr>
   </table>
