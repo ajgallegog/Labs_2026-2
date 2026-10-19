@@ -75,43 +75,43 @@ El laboratorio se desarrolla bajo el siguiente esquema:
   <tr>
     <td>Instalación de herramientas</td>
     <td><a href="/Labs/Lab_0/README.md">Lab_0</a></td>
-    <td>5%</td>
+    <td>%</td>
   </tr>
   <tr>
     <td>Comparación de tecnologías CMOS vs TTL</td>
     <td><a href="/Labs/Lab_1/README.md">Lab_1</a></td>
-    <td>5%</td>
+    <td5%</td>
   </tr>
   <tr>
     <td>Sumador de 1 y 4 bits y sumador/restador</td>
     <td><a href="/Labs/Lab_2/README.md">Lab_2</a></td>
-    <td>10%</td>
+    <td>%</td>
   </tr>
   <tr>
     <td>Decodificador BCD a 7 segmentos</td>
     <td><a href="/Labs/Lab_3/README.md">Lab_3</a></td>
-    <td>10%</td>
+    <td>%</td>
   </tr>
   <tr>
     <td>Circuitos Secuenciales,Contadores y PWM.</td>
     <td><a href="/Labs/Lab_4/README.md">Lab_4</a></td>
-    <td>10%</td>
+    <td>%</td>
   </tr>
   <tr>
     <td>Diseño de una Cerradura Electrónica con Teclado Matricial y Control de Servo en FPGA</td>
     <td><a href="/Labs/Lab_5/readme.md">Lab_5</a></td>
-    <td>10%</td>
+    <td>%</td>
   </tr>
 
   <tr>
     <td>LCD 16x2 en modo paralelo</td>
     <td><a href="/Labs/Lab_6/README.md">Lab_6</a></td>
-    <td>10%</td>
+    <td>%</td>
   </tr>
   <tr>
     <td> Proyecto final</td>
     <td><a>Proyecto</a></td>
-    <td>30%</td>
+    <td>%</td>
   </tr>
   </table>
  
