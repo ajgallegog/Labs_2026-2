@@ -44,6 +44,7 @@ begin
 end
 ```
 
+Para poder poner esto en práctica, diseñe una FSM e implemente en la FPGA un circuito que detecte la secuencia 1011 proveniente de una entrada de 1 bit. Cuando detecte que la secuencia, el circuito enciende un led durante dos pulsos de reloj.
 
 ---
 

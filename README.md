@@ -93,8 +93,8 @@ El laboratorio se desarrolla bajo el siguiente esquema:
     <td>%</td>
   </tr>
   <tr>
-    <td>Circuitos Secuenciales,Contadores y PWM.</td>
-    <td><a href="/Labs/Lab_4/README.md">Lab_4</a></td>
+    <td>Circuitos Secuenciales y contadores.</td>
+    <td><a href="/Labs/Lab_3/README.md">Lab_3</a></td>
     <td>%</td>
   </tr>
   <tr>
